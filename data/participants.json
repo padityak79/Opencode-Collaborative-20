@@ -39,6 +39,16 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
-     }
+     },
+     {
+      "name" : "P. Aditya Kumar",
+      "imageurl" : "contestant/avatar.jpg",
+      "about" : "Tech and sports enthusiast!!",
+      "college" : "IIIT Allahabad",
+      "facebook" : "https://www.facebook.com/paditya.kumar.5",
+      "github" : "https://github.com/padityak79",
+      "twitter" : "",
+      "referral" : "Seniors"
+      },
 ]
 
